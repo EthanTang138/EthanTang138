@@ -1,7 +1,7 @@
 ## Hi there 👋
 
- *+ I am a fourth-year student at the University of Toronto majoring in both Computer Science and Applied Statistics.
- *+ I am currently working on a Python to C compiler and an automatic AI documentation application.
+ - I am a fourth-year student at the University of Toronto majoring in both Computer Science and Applied Statistics.
+ - I am currently working on a Python to C compiler and an automatic AI documentation application.
 <!--
 **EthanTang138/EthanTang138** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
